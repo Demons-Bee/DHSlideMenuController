@@ -8,12 +8,12 @@
 	<string>58A0F615-AFB8-4BCE-9D20-B4697A408032</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>74597450C18376985CB91E4FFA6D68B09DC41759</key>
+		<key>C804DFF536F25D48E3AD34C329C465422FE3010D</key>
 		<string>https://github.com/DahanHu/DHSlideMenuController.git</string>
 	</dict>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>74597450C18376985CB91E4FFA6D68B09DC41759</key>
+		<key>C804DFF536F25D48E3AD34C329C465422FE3010D</key>
 		<string>DHSlideMenuController</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -21,14 +21,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>74597450C18376985CB91E4FFA6D68B09DC41759</string>
+	<string>C804DFF536F25D48E3AD34C329C465422FE3010D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>74597450C18376985CB91E4FFA6D68B09DC41759</string>
+			<string>C804DFF536F25D48E3AD34C329C465422FE3010D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>DHSlideMenuController</string>
 		</dict>
