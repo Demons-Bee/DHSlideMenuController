@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5B18B17619E9130800C743FE /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B18B17519E9130800C743FE /* Default-568h@2x.png */; };
+		5B54163719FA33C2001B8FAE /* DHSlide.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5B54163619FA33C2001B8FAE /* DHSlide.gif */; };
 		5BF5274A19E8CE1400F73D3F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF5274919E8CE1400F73D3F /* main.m */; };
 		5BF5274D19E8CE1400F73D3F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF5274C19E8CE1400F73D3F /* AppDelegate.m */; };
 		5BF5275019E8CE1400F73D3F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF5274F19E8CE1400F73D3F /* ViewController.m */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		5B18B17519E9130800C743FE /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		5B54163619FA33C2001B8FAE /* DHSlide.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = DHSlide.gif; sourceTree = "<group>"; };
 		5BF5274419E8CE1400F73D3F /* DHSlideMenuController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DHSlideMenuController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BF5274819E8CE1400F73D3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5BF5274919E8CE1400F73D3F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 		5BF5274619E8CE1400F73D3F /* DHSlideMenuController */ = {
 			isa = PBXGroup;
 			children = (
+				5B54163619FA33C2001B8FAE /* DHSlide.gif */,
 				5BF5276D19E8CE8900F73D3F /* DHSlideMenuController */,
 				5BF5274B19E8CE1400F73D3F /* AppDelegate.h */,
 				5BF5274C19E8CE1400F73D3F /* AppDelegate.m */,
@@ -210,6 +213,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BF5275519E8CE1400F73D3F /* Images.xcassets in Resources */,
+				5B54163719FA33C2001B8FAE /* DHSlide.gif in Resources */,
 				5B18B17619E9130800C743FE /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
